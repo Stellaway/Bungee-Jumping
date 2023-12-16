@@ -5,4 +5,5 @@ The left side camera is the point of view of the object, while on the right side
 
 # Gallery
 
-![bungee](https://github.com/Stellaway/Bungee-Jumping/assets/40556813/cd99c148-9010-4312-8150-36d89655c171)
+https://github.com/Stellaway/Bungee-Jumping/assets/40556813/793209ed-8814-4a81-9687-51328e676569
+
