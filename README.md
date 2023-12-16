@@ -1,5 +1,3 @@
-
-https://github.com/Stellaway/Bungee-Jumping/assets/40556813/69c155c9-b1e6-49b5-ae88-d32537301702
 # Bungee Jumping
 
 This demo simulates a cuboid being released from the air while an invisible elastic rope is attached to its side, thus resulting in swinging.
